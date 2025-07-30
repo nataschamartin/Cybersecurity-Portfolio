@@ -1,22 +1,14 @@
 # Cybersecurity Portfolio
 
-This repository showcases my cybersecurity projects and assignments from hands-on labs, certifications, and coursework. It includes documentation, analysis, and technical work across incident response, compliance, Linux/SQL command usage, and security tools.
+Welcome to my cybersecurity portfolio. This repository includes work samples, technical exercises, incident response practice, compliance documentation, and visual aids related to my cybersecurity training.
 
-## 📂 Contents
+## 📁 Folder Overview
 
-- `incident-response/`  
-  Incident handler's journals, alert tickets, and investigation playbooks
+- **incident-response/**: SOC scenarios, detection & analysis reports, and IR documentation
+- **compliance-checklists/**: Audit templates, frameworks, and regulatory mapping
+- **technical-assignments/**: Hands-on labs, script samples, and network defense activities
+- **visual-aids/**: Infographics, slide decks, and visual summaries of technical topics
 
-- `compliance-checklists/`  
-  Controls and governance documentation for audit readiness
+## 🧩 About Me
 
-- `technical-assignments/`  
-  File permissions, SQL queries, and Linux command exercises
-
-- `visual-aids/`  
-  Diagrams and presentation decks for reporting and incident visualization
-
-## 💡 About
-
-I’m currently pursuing certifications in cybersecurity, cyber law, and compliance. This portfolio reflects my growing skills in SOC-level investigation, digital forensics, risk analysis, and regulatory frameworks.
-
+I’m pursuing certifications in cybersecurity, digital forensics, compliance, and project management. This portfolio reflects my hands-on learning and core strengths in cyber law and GRC (governance, risk, compliance).
