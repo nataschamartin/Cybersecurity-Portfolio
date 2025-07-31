@@ -8,6 +8,12 @@ Welcome to my cybersecurity portfolio. This repository includes work samples, te
 - **compliance-checklists/**: Audit templates, frameworks, and regulatory mapping
 - **technical-assignments/**: Hands-on labs, script samples, and network defense activities
 - **visual-aids/**: Infographics, slide decks, and visual summaries of technical topics
+## 📊 Visual Aids
+
+- **Visual Security Story**  
+  Bar chart created in Google Sheets showing phishing email click rates by department.  
+  [View PDF](./visual-aids/Visual_Security_Story.pdf)
+
 
 ## 🧩 About Me
 
