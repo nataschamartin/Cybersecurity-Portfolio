@@ -152,7 +152,38 @@ Folders are structured to reflect career-aligned learning goals in GRC, digital 
 
 README files are being added as content is finalized. If a folder is missing a README.md, it will be added soon.
 
+## 📁 Repository Structure
+
+- `Cyber Security Learning/` – Course-specific labs and notes
+- `compliance-checklists/` – Audit prep and GRC templates
+- `incident-response/` – Tickets, response steps, and scenarios
+- `technical-assignments/` – OS commands, scripts, SQL, and Python
+- `visual-aids/` – Diagrams, screenshots, and annotated images
+
+MIT License
+
+Copyright (c) 2025 Natascha Martin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
-
+---
+📧 Contact:(https://github.com/nataschamartin/cybersecurity-portfolio/tree/main/incident-response
+🛡️ License: MIT – see LICENSE file
 
