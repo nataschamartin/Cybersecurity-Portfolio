@@ -152,6 +152,13 @@ Folders are structured to reflect career-aligned learning goals in GRC, digital 
 
 README files are being added as content is finalized. If a folder is missing a README.md, it will be added soon.
 
+## 📁 Repository Structure
+
+- `Cyber Security Learning/` – Course-specific labs and notes
+- `compliance-checklists/` – Audit prep and GRC templates
+- `incident-response/` – Tickets, response steps, and scenarios
+- `technical-assignments/` – OS commands, scripts, SQL, and Python
+- `visual-aids/` – Diagrams, screenshots, and annotated images
 
 
 
