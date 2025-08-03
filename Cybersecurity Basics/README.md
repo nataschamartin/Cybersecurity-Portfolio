@@ -36,3 +36,35 @@ Attempted to install and run Rkhunter on a lab-based Linux VM. The lab environme
 
 Module 4: Enable Two-Factor Authentication (Activity)
 Confirmed that 2FA was already enabled on both Google and Microsoft accounts prior to this lab. Google 2-Step Verification uses Google Authenticator and backup recovery methods, while Microsoft is secured through the Microsoft Authenticator app with push-based verification. Skipped Apple’s 2FA entirely due to its known security quirks and user control issues. Used the activity as a quick audit to ensure backup methods and recovery contacts were still current and functional.
+
+# Final Project – Operating Systems and Security
+
+This file contains my final reflections and task breakdown for the *Operating Systems and Security* course. The final project was designed to simulate real-world system administration responsibilities in both Windows and Linux environments using cloud-based labs.
+
+## 🔧 Project Overview
+
+I was assigned six tickets:
+
+- **Windows Tasks**
+  1. Add a new user and group
+  2. Run virus and threat protection
+  3. Configure firewall and network protection
+
+- **Linux Tasks**
+  4. Create a new user
+  5. Manage files and folders
+  6. Apply system updates
+
+While the course provided cloud-based lab environments for both Windows and Linux, I experienced repeated technical issues that made it impossible to complete the labs interactively. Instead, I documented each task thoroughly, reviewed the intended process, and reflected on the skills involved.
+
+## 🧠 Learning Reflection
+
+Despite the lab challenges, I completed all reading and activity reviews. I now have a strong conceptual understanding of:
+- User and group management across OS types
+- System maintenance through command line and GUI
+- Security tools like antivirus and firewalls
+- The differences between Windows and Linux administration
+
+This project also highlighted the importance of reliable lab access when training in technical fields. I intend to recreate many of these tasks locally to build more hands-on confidence.
+
+📄 **View the full write-up:** [`Lab environments and Final Project.pdf`](./Lab%20environments%20and%20Final%20Project.pdf)
