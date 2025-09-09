@@ -128,7 +128,32 @@
 
 ###### Board mockups, color-coded priorities, backlog creation, and Agile exercise documentation (IBM and Scrum coursework).
 
+Latest Additions (August 2025)
+🗂 Course Tracking
 
+2025_Course_Tracker_Portfolio_NM.xlsx — updated tracker for completed and ongoing cybersecurity and Agile coursework.
+
+🏆 Certificates
+
+Agile Leadership Principles and Practices
+
+Certificate of Achievement in Identifying and Responding to Phishing Threats
+
+Penetration Testing, Threat Hunting, and Cryptography
+
+📑 Case Studies
+
+Deep Fake Case Study
+
+Home Depot Case Study
+
+Pegasus Airlines Case Study
+
+🛠 Final Project Deliverables
+
+Part 1: Penetration Testing, Threat Hunting, and Cryptography
+
+Part 2: Secure Information Using Symmetric Encryption
 
 ## About Me
 
