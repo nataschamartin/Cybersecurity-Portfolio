@@ -1,2 +1,0 @@
-Agile Process, Project, and Program Controls – University of Maryland / Coursera
-Completed a course focused on scaling Agile practices across multi-team environments. Topics included Agile governance, backlog management, stakeholder engagement, and performance tracking. Strengthened understanding of Agile controls in enterprise settings.
