@@ -19,3 +19,14 @@ File OperationsReading from and writing to text files using Python. Includes fil
 OS CLI CommandsUsing basic Windows command-line operations such as dir, cd, mkdir, rmdir, and chkdsk.
 
 Each folder includes screenshots of working code or errors and their solutions, all gathered from hands-on learning. These practice files support my understanding of basic Python syntax and troubleshooting techniques.
+
+Python Practice/
+
+&nbsp; Basics/
+
+&nbsp; Data Handling/
+
+&nbsp; Security Scripts/
+
+
+
