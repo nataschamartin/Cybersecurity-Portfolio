@@ -1,214 +1,95 @@
-###### ***Natascha Martin* – Cybersecurity Portfolio**
+# **Natascha Martin – Cybersecurity Portfolio**
 
-###### 
-
-###### Welcome to my professional portfolio, showcasing hands-on work from cybersecurity, digital forensics, GRC, Agile, and cloud-based coursework. This repository highlights my progression through professional certificate programs with a strong focus on compliance, incident response, secure systems, and technical documentation.
-
-###### 
-
-###### **Repository Structure**
-
-###### 
-
-###### Each folder below includes organized artifacts from individual classes or projects, with README documentation and original work where applicable.
-
-###### 
-
-###### **Cybersecurity \& GRC Courses**
-
-###### 
-
-###### Beginner’s Guide to Cybersecurity
-
-###### 
-
-###### Reflections and security principles from EdX’s intro-level class.
-
-###### 
-
-###### Compliance Checklists
-
-###### 
-
-###### Audit tracking documents, regulatory mappings, and readiness registers.
-
-###### 
-
-###### Incident Response
-
-###### 
-
-###### Coursework reflecting IR lifecycle phases, playbook simulations, and scenario analysis.
-
-###### 
-
-###### Technical Assignments
-
-###### 
-
-###### Miscellaneous but relevant deliverables including mock documentation and structured compliance exercises.
-
-###### 
-
-###### **Systems \& Programming**
-
-###### Operating Systems and Security
-
-###### 
-
-###### Task tickets and command-line security configurations for users, permissions, antivirus, firewalls, and more.
-
-###### 
-
-###### Python for Data Science (Beginner Level)
-
-###### 
-
-###### **Folder structure includes**:
-
-###### 
-
-###### python\_types/ (e.g., type errors, type() function)
-
-###### 
-
-###### name\_errors/ (undefined variable issues)
-
-###### 
-
-###### syntax\_errors/ (loop and formatting issues)
-
-###### 
-
-###### code\_debug/ (working through and solving output problems)
-
-###### 
-
-###### misc\_syntax\_walkthroughs/ (non-repetitive logic testing and errors)
-
-###### 
-
-###### **Visual Aids**
-
-###### 
-
-###### Annotated diagrams, screenshots, and educational visuals used across multiple classes to support comprehension and communication.
-
-###### 
-
-###### **Data \& Querying**
-
-###### Introduction to SQL
-
-###### 
-
-###### Hands-on examples, screenshot references, and query work demonstrating select statements, filtering, aggregate functions, and joins.
-
-###### 
-
-###### Relational Database Basics
-
-###### 
-
-###### One-off contributions reinforcing key RDBMS concepts, integrity rules, and data modeling structure.
-
-###### 
-
-###### **Cloud \& Infrastructure**
-
-###### Intro to Cloud Computing (in progress / no current uploads)
-
-###### 
-
-###### **Agile \& Project Practices**
-
-###### Agile Project Artifacts
-
-###### 
-
-###### Board mockups, color-coded priorities, backlog creation, and Agile exercise documentation (IBM and Scrum coursework).
-
-Latest Additions (August 2025)
-🗂 Course Tracking
-
-2025_Course_Tracker_Portfolio_NM.xlsx — updated tracker for completed and ongoing cybersecurity and Agile coursework.
-
-🏆 Certificates
-
-Agile Leadership Principles and Practices
-
-Certificate of Achievement in Identifying and Responding to Phishing Threats
-
-Penetration Testing, Threat Hunting, and Cryptography
-
-📑 Case Studies
-
-Deep Fake Case Study
-
-Home Depot Case Study
-
-Pegasus Airlines Case Study
-
-🛠 Final Project Deliverables
-
-Part 1: Penetration Testing, Threat Hunting, and Cryptography
-
-Part 2: Secure Information Using Symmetric Encryption
-
-## About Me
-
-
-
-I’m pursuing certifications in cybersecurity, digital forensics, compliance, and project management. This portfolio reflects my hands-on learning and core strengths in cyber law and GRC (governance, risk, compliance).
-
-
-
-Notes
-
-
-
-All screenshots, documents, and exemplars are original work or captured directly from my own participation in hands-on labs.
-
-
-
-Folders are structured to reflect career-aligned learning goals in GRC, digital forensics, incident response, and cloud security.
-
-
-
-README files are being added as content is finalized. If a folder is missing a README.md, it will be added soon.
-
-## 📁 Repository Structure
-
-- `Cyber Security Learning/` – Course-specific labs and notes
-- `compliance-checklists/` – Audit prep and GRC templates
-- `incident-response/` – Tickets, response steps, and scenarios
-- `technical-assignments/` – OS commands, scripts, SQL, and Python
-- `visual-aids/` – Diagrams, screenshots, and annotated images
-
-MIT License
-
-Copyright (c) 2025 Natascha Martin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
+Welcome to my professional portfolio, showcasing original work across cybersecurity, digital forensics, GRC (governance, risk, and compliance), Agile, and cloud technologies. This repository reflects the completion of all my formal training, certifications, and hands-on labs, with a strong focus on compliance, incident response, secure systems, and technical documentation.
 
 ---
-📧 Contact:(https://github.com/nataschamartin/cybersecurity-portfolio/tree/main/incident-response
-🛡️ License: MIT – see LICENSE file
+
+## 🔹 Summary
+
+- 🎓 Fully completed all professional certificates and coursework (Google, IBM, EdX, UMD, etc.)
+- 🛡️ Strong focus on GRC, cyber law, incident response, and digital forensics
+- 🧠 Demonstrated ability to apply technical and regulatory concepts to real-world simulations
+- 📂 Organized, self-documented, and structured for portfolio presentation
+
+---
+
+## 📁 Repository Overview
+
+Each folder contains original assignments, labs, documentation, or case studies from individual courses or projects.
+
+### 🔐 Cybersecurity & GRC
+
+- `Beginner's Guide to Cybersecurity/` – Intro concepts and principles (EdX, IBM)
+- `compliance-checklists/` – Audit templates, regulatory mappings, and readiness documents
+- `incident-response/` – Tickets, response phases, playbooks, and triage simulations
+- `technical-assignments/` – Command-line, OS security, scripting, and compliance exercises
+
+### 💻 Systems & Programming
+
+- `technical-assignments/python/` – Debugging, logic, syntax, and automation (Google/IBM)
+- `technical-assignments/os-security/` – Users, groups, firewalls, permissions, AV config
+
+### 📊 Data & Querying
+
+- `technical-assignments/sql/` – SELECTs, JOINs, filters, and aggregate queries
+- `technical-assignments/rdbms/` – Relational database structure and modeling
+
+### ☁️ Cloud & Infrastructure
+
+- `technical-assignments/cloud/` – Cloud computing fundamentals and security topics  
+  *(Note: no uploads from in-progress cloud class)*
+
+### 🚀 Agile & Project Management
+
+- `agile-projects/` – Scrum board mockups, Agile documentation, and IBM/UMD coursework artifacts
+
+### 📎 Visual Aids
+
+- `visual-aids/` – Annotated screenshots, diagrams, and visuals used across multiple classes
+
+---
+
+## 🏆 Final Projects
+
+- Agile Leadership Principles and Practices  
+- Agile Process, Project & Program Controls  
+- Applied Scrum for Agile Project Management  
+- Agile & Scrum Fundamentals (IBM)  
+- Identifying and Responding to Phishing Threats  
+- Penetration Testing, Threat Hunting, and Cryptography  
+- Cybersecurity Case Studies & Capstone Project  
+- Deep Fake Case Study  
+- Home Depot Security Breach Case Study  
+- Pegasus Airlines Data Leak Analysis  
+- Final Project: Penetration Testing & Symmetric Encryption  
+
+---
+
+## 📈 Tracker
+
+- `2025_Course_Tracker_Portfolio_NM.xlsx` – Complete list of courses, dates, documentation, and GitHub status
+
+---
+
+## 🙋🏾‍♀️ About Me
+
+I’m a cybersecurity professional with a background in criminal justice and paralegal studies, transitioning into a technical GRC and incident response role. My certifications and labs emphasize law-compliant security design, ethical investigation, and risk-based decision-making. This portfolio showcases both technical skills and real-world problem solving.
+
+---
+
+## 📄 License
+
+MIT License  
+(c) 2025 Natascha Martin
+
+[MIT License Full Text »](./LICENSE)
+
+---
+
+## 📬 Contact
+
+[GitHub Portfolio](https://github.com/nataschamartin/Cybersecurity-Portfolio)
+
+---
+📬 Contact: Reach me via GitHub or request my resume for full details.  
 
