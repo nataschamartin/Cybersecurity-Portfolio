@@ -1,86 +1,114 @@
-\# Assets, Threats, and Vulnerabilities
+\# Compliance Checklists
 
 
 
 \*\*Provider:\*\* IBM (Coursera, Cybersecurity Analyst Professional Certificate)  
 
+\*\*Folder Scope:\*\* Assets, Threats, and Vulnerabilities + Structured GRC Deliverables  
+
+
+
+---
+
 
 
 \## Overview
 
-This section includes completed assignments and case studies focused on identifying assets, assessing threats, and evaluating vulnerabilities. Work completed here applies structured risk assessment methods, compliance checklists, and threat modeling frameworks (e.g., PASTA, PESTEL). These deliverables demonstrate the ability to analyze security risks in both theoretical and real-world contexts.  
+
+
+This folder contains structured assignments and real-world case studies aligned with governance, risk, and compliance (GRC) objectives. All documents reflect foundational cybersecurity practices including asset identification, risk prioritization, threat modeling, and compliance alignment. These deliverables showcase applied knowledge in risk management and preparedness for GRC-focused cybersecurity roles.
+
+
+
+---
 
 
 
 \## Assignments
 
+
+
 \- \*\*Access Control Worksheet\*\*  
 
-&nbsp; Evaluates access control mechanisms and identifies potential gaps.  
+&nbsp; Evaluates existing access control mechanisms and identifies areas of potential weakness.
 
 
 
 \- \*\*Controls and Compliance Checklist\*\*  
 
-&nbsp; Documents security controls mapped against compliance requirements.  
+&nbsp; Maps security controls against compliance requirements to assess coverage gaps.
 
 
 
 \- \*\*PASTA Worksheet\*\*  
 
-&nbsp; Applies the Process for Attack Simulation and Threat Analysis to assess threats and risks. Supporting diagrams (attack tree and data flow) available as supplemental visuals.  
+&nbsp; Applies the Process for Attack Simulation and Threat Analysis to identify threat vectors and system risks.
 
 
 
 \- \*\*Risk Register\*\*  
 
-&nbsp; Identifies, categorizes, and prioritizes risks by impact and likelihood.  
+&nbsp; Categorizes and prioritizes risks based on probability and impact using a structured matrix.
 
 
 
 \- \*\*Vulnerability Assessment Report\*\*  
 
-&nbsp; Provides findings from a vulnerability assessment, including weaknesses and mitigation recommendations.  
+&nbsp; Summarizes system weaknesses and provides mitigation recommendations based on assessment results.
 
 
 
 \- \*\*Security Organizations Worksheet\*\*  
 
-&nbsp; Summarizes global security organizations and their compliance mandates.  
+&nbsp; Reviews global security organizations and their mandates to understand regulatory frameworks.
 
 
 
 \- \*\*PESTEL Framework and AI Analysis\*\*  
 
-&nbsp; Applies Political, Economic, Social, Technological, Environmental, and Legal analysis to evaluate AI compliance risks.  
+&nbsp; Uses the PESTEL model to evaluate AI-related compliance risks across political, economic, and legal dimensions.
+
+
+
+---
 
 
 
 \## Case Studies
 
-Applied real-world scenarios to reinforce concepts in threat and vulnerability analysis:  
 
-\- \*\*Deep Fake\*\* – Social engineering risks using manipulated media.  
 
-\- \*\*Equiniti\*\* – Third-party risk and data breach implications.  
+These applied scenarios reinforce core compliance and threat modeling concepts:
 
-\- \*\*23andMe Breach\*\* – Genetic data privacy and insider threat analysis.  
 
-\- \*\*Home Depot Breach\*\* – Retail POS malware and vendor management failures.  
 
-\- \*\*Lightning Strikes\*\* – Physical security and business continuity risks.  
+\- \*\*Deep Fake\*\* – Explores social engineering risks via synthetic media.
 
-\- \*\*Pegasus Airlines\*\* – Credential leaks and impact on transportation security.  
+\- \*\*Equiniti\*\* – Analyzes third-party risk and vendor breach response.
 
-\- \*\*IBM X-Force Red Pen Test\*\* – Ethical hacking and penetration testing findings.  
+\- \*\*23andMe Breach\*\* – Focuses on genetic data privacy and insider threat management.
 
-\- \*\*USB Drop Exercise\*\* – Social engineering using physical device compromise.  
+\- \*\*Home Depot Breach\*\* – Details malware targeting POS systems and vendor access failures.
+
+\- \*\*Lightning Strikes\*\* – Assesses physical risk and business continuity planning.
+
+\- \*\*Pegasus Airlines\*\* – Investigates credential leakage and aviation cybersecurity risks.
+
+\- \*\*IBM X-Force Red Pen Test\*\* – Evaluates findings from an ethical hacking and penetration testing engagement.
+
+
+
+---
 
 
 
 \## Personal Reflection
 
-This body of work demonstrated how structured methods and case-based analysis strengthen risk assessment. By combining worksheets with real-world case studies, I gained practical experience documenting vulnerabilities, prioritizing risks, and applying compliance frameworks in ways directly relevant to GRC and incident response roles.
+
+
+This portfolio segment demonstrated the value of combining structured frameworks with real-world scenarios. Through worksheets and breach case studies, I developed fluency in identifying vulnerabilities, applying threat models like PASTA and PESTEL, and documenting risk in a manner aligned with GRC and compliance operations. These exercises built both technical insight and practical reporting skills that will translate directly into audit, risk, and policy roles.
+
+
 
 
 

@@ -1,115 +1,112 @@
-Incident Response – Course Artifacts
-This folder includes artifacts from the Incident Response coursework completed as part of my cybersecurity training through EdX and affiliated platforms.
+Connect and Protect \& Incident Response / Digital Forensics
 
-✅ Course Overview
-Platform: EdX
 
-Focus: Understanding the lifecycle of incident response, from preparation and detection to containment, eradication, recovery, and lessons learned
 
-Application: Critical for roles in SOC, threat detection, digital forensics, and compliance
+This folder contains artifacts from two modules in the Google Cybersecurity Certificate: Connect and Protect – Networks and Network Security and Incident Response and Digital Forensics. Work includes hands-on labs, reports, and structured documentation designed to demonstrate SOC-level investigative and defensive skills.
 
-📸 Contents
-Screenshots \& Notes (if applicable):
 
-Example workflows and ticketing steps for managing security incidents
 
-System log analysis or command-line tools used in triage
+📁 Folder Structure \& Topics Covered
 
-Response strategies based on NIST 800-61
+🌐 Connect and Protect – Networks and Network Security
 
-(Screenshots placed here reflect personal application of procedures, CLI usage, or lab simulations involving simulated security breaches or mitigation tasks.)
 
-🎯 Why This Matters
-Effective incident response is key for:
 
-Minimizing the impact of cyber attacks
+Introduced foundational network security concepts with a focus on traffic monitoring, risk assessment, and incident response planning.
 
-Maintaining regulatory compliance
 
-Ensuring business continuity
 
-Feeding lessons learned into security operations and GRC planning
+Artifacts:
 
-🛠️ Tools Demonstrated (if shown)
-CLI for Linux or Windows system interrogation
 
-Basic ticketing simulations
 
-Log analysis and user account audit practices
+Course Overview – Connect and Protect
 
 
 
-&nbsp;Incident Response \& Digital Forensics Project
+Network traffic analysis report
 
-This folder contains my final project for the Incident Response and Digital Forensics course. The work is grounded in the NIST Cybersecurity Framework and demonstrates practical knowledge of how to detect, respond to, and investigate security incidents.
 
 
+SIEM log analysis assignment
 
-🔍 What's Inside
 
-Incident Response Plan and Digital Forensics Investigation Steps.docx:
 
-A structured plan covering detection, containment, recovery, and post-incident activities based on NIST phases. Includes role assignments, monitoring techniques, documentation strategies, and review processes.
+Incident response playbook and flowchart
 
 
 
-Solution Document\_NM.docx:
+Risk assessment worksheet
 
-My full assignment submission with detailed responses to course prompts. This version removes instructional text and reflects a real-world voice for incident response documentation.
 
 
+Security incident report
 
-Lab - Investigate Logs using Cowrie.pdf:
 
-A hands-on lab investigation into SSH honeypot logs using Cowrie, demonstrating forensic log analysis in a Linux environment.
 
+🛡 Incident Response and Digital Forensics
 
 
-Incident Response and Digital Forensics Notes and Quizzes.docx:
 
-Personal notes and quiz answers from the course to reinforce key concepts around malware behavior, evidence collection, and response frameworks.
+Focused on alert handling, investigative journaling, forensic documentation, and structured incident response aligned with NIST guidance.
 
 
 
-💡 Key Takeaways
+Artifacts:
 
-Documented the full incident lifecycle using the NIST model.
 
 
+alert ticket.pdf – Phishing alert investigation
 
-Identified and analyzed multiple types of digital evidence.
 
 
+Data leak worksheet.pdf – Internal data exfiltration case
 
-Developed containment and recovery strategies for spear-phishing malware.
 
 
+incident handlers journal.pdf – Timeline log of incident response actions
 
-Built a reusable response plan that could be adapted across organizations.
 
 
+Incident Response Plan and Digital Forensics Investigation Steps.pdf – Structured NIST-based plan
 
-📁 Skills Demonstrated
 
-Incident detection \& monitoring
 
+Incident report analysis.pdf – Risk categorization of suspicious logs
 
 
-Forensics documentation
 
+Parking lot USB exercise.pdf – Social engineering scenario response
 
 
-Evidence preservation \& integrity validation
 
+Ransomware Incident handlers journal.pdf – Ransomware response notes
 
 
-Use of log analysis tools (e.g., Cowrie)
 
+Incident Response and Digital Forensics Notes and Quizzes.docx – Supporting notes and quizzes
 
 
-Role-based response planning
 
+✅ Purpose \& Usage
 
 
-Compliance with NIST 800-61 guidelines
+
+This folder demonstrates both preventative network security practices and reactive incident response skills, including:
+
+
+
+Applying NIST-CSF and NIST 800-61 frameworks
+
+
+
+Investigating and documenting security alerts
+
+
+
+Conducting forensic-style log and evidence analysis
+
+
+
+Building structured reports and playbooks for SOC environments
 
