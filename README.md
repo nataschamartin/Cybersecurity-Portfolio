@@ -1,3 +1,14 @@
+# Natascha Martin – Cybersecurity Portfolio  
+Hands-on projects in **GRC, compliance, incident response, and digital forensics**.  
+This site highlights labs, case studies, and audit-ready templates that demonstrate my skills in cybersecurity and risk management.  
+
+## 📂 Quick Links  
+- [Resume (Public PDF)](Natascha_Martin_Public_Resume_2025.pdf)  
+- [Cover Letter Template](Natascha_Martin_GitHub_Cover_Letter_2025.pdf)  
+- [Case Studies](#case-studies)  
+- [Incident Response](#incident-response)  
+- [Compliance Checklists](#compliance-checklists)  
+
 # **Natascha Martin – Cybersecurity Portfolio**
 
 Welcome to my professional portfolio, showcasing original work across cybersecurity, digital forensics, GRC (governance, risk, and compliance), Agile, and cloud technologies. This repository reflects the completion of all my formal training, certifications, and hands-on labs, with a strong focus on compliance, incident response, secure systems, and technical documentation.
